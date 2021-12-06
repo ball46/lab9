@@ -4,6 +4,9 @@
 using namespace std;
 
 //[Missing Code 1] Write definition of the function findGrade() here.
+double findGrade(double x){
+	
+}
 
 int main(){
 	//Input the number of students
